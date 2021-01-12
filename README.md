@@ -10,11 +10,11 @@
   * Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 ## [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
 * Week 1 
-  * Diagnosing Diseases using Linear Risk Models
+  * Build and Evaluate a Linear Risk model
 * Week 2
-  * Risk Models Using Machine Learning
+  * Risk Models Using Tree-based Models
 * Week 3
-  * Non-Parametric Estimators for Survival Analysis
+  * Survival Estimates that Vary with Time
 * Week 4 
   * Cox Proportional Hazards and Random Survival Forests
 ## [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
