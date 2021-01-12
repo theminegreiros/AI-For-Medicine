@@ -1,5 +1,5 @@
 # AI for Medicine
-[AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine) is a specialization created by the [deeplearning.ai](https://www.deeplearning.ai/)  team. The specialization has 3 courses: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis),[AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis),  and [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) focus on practical experience in applying machine learning to concrete problems in medicine. 
+[AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine) is a specialization created by the [deeplearning.ai](https://www.deeplearning.ai/)  team. The specialization has 3 courses: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis), [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis),  and [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) focus on practical experience in applying machine learning to concrete problems in medicine. 
 
 ## [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
 * Week 1
