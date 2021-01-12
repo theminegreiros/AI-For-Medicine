@@ -23,5 +23,5 @@
 * Week 2
   * Natural Language Entity Extraction
 * Week 3
-  * ML Interpretation
+  * Model Interpretation Methods
   
